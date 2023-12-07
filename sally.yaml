@@ -1,0 +1,8 @@
+url: go.m5ka.dev
+packages:
+  poeia:
+    repo: git.m5ka.dev/maria/poeia
+    description: self-hosted no-js microblogging
+  scago:
+    repo: github.com/m5ka/scago
+    description: sound change applier for diachronic linguistics and conlanging
