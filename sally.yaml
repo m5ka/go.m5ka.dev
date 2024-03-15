@@ -1,7 +1,7 @@
 url: go.m5ka.dev
 packages:
   poeia:
-    repo: git.m5ka.dev/maria/poeia
+    repo: github.com/m5ka/poeia
     description: self-hosted no-js microblogging
   scago:
     repo: github.com/m5ka/scago
